@@ -13,8 +13,10 @@ import java.util.*;
 import java.text.*;
 public class PBO210117063Latihan26WaktuSaatIni {
 
-    /**
-     * @param args the command line arguments
+    /*  Nama : Cessario Sheva Lakita Purwa Adidjaya
+        NIM  : 10117063
+        Kelas : IF-2
+        Deskripsi Program : Menampilkan waktu saat ini
      */
     public static void main(String[] args) {
      Date hariSekarang = new Date();
